@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB4djIycW13bmFibHJraXptOTF1eGkzbGx2YmU4aTRqejUzbXV6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"/>
+  <img height="300" src="./src/giphy.gif"/>
 </div>
 
 ###
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">💻 I’m working as a Full-Stack Software Developer, building web apps, high-performance backends, and IoT systems.<br><br>🛠️ I mainly work with Rust, Java, TypeScript/JavaScript, C#, and modern frameworks like Actix Web, Spring Boot, NestJS, .NET.<br><br>⚡ In my free time, I enjoy exploring embedded systems, tinkering with IoT projects, and contributing to the developer community.<br><br>🌱 Passionate about efficient, reliable, and maintainable software. Always trying to push code quality to the next level.</p>
+<p align="left">💻 I’m working as a Full-Stack Software Developer, building web apps, high-performance backends, and IoT systems.<br>🛠️ I mainly work with Rust, Java, TypeScript/JavaScript, C#, and modern frameworks like Actix Web, Spring Boot, NestJS, .NET.<br>⚡ In my free time, I enjoy exploring embedded systems, tinkering with IoT projects, and contributing to the developer community.<br>🌱 Passionate about efficient, reliable, and maintainable software. Always trying to push code quality to the next level.</p>
 
 ###
 
